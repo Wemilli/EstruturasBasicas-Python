@@ -1,3 +1,9 @@
+'''PROPOSTA:
+Crie um sistema para ser usado pelo time de controle de estoque de um centro de distribuição.
+Imagine que ao fim de todo dia, o time conta quantas unidades de produto existem no estoque.
+Se tivermos um estoque abaixo do estoque permitido para aquela categoria do produto,
+o time deve ser avisado para fazer um novo pedido daquele produto.'''
+
 produto = input('Qual o produto?')
 categoria = input('Qual a categoria do produto?')
 qtde = input('Qual a quantidade atual do produto?')
