@@ -1,2 +1,2 @@
 # EstruturasBasicas
- Programas com estruturas básicas como: if, for, while, listas, tuplas e dicionarios.
+ Programas exemplos utilizando estruturas básicas como: if, for, while, listas, tuplas e dicionarios.
